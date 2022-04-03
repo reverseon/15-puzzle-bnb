@@ -11,7 +11,7 @@ Program ini dicompile dan dijalankan menggunakan Python 3.9.7 yang merupakan bag
 cd src
 python -u main.py
 ```
-2. Masukkan nama file yang ada di dalam folder `testcase`. jika ingin menambahkan testcase baru, pastikan mengikuti format testcasenya (terdiri dari matriks 4x4 dengan pemisah berupa satu whitespace dan `X` (kapital) sebagai penanda tile kosong)
+2. Masukkan nama file yang ada di dalam folder `../src/testcase`. jika ingin menambahkan testcase baru, pastikan mengikuti format testcasenya (terdiri dari matriks 4x4 dengan pemisah berupa satu whitespace dan `X` (kapital) sebagai penanda tile kosong)
 3. Klik Enter dan tunggu hasilnya keluar
 ## Author
 Disusun oleh 13520157 Thirafi Najwan Kurniatama. 
